@@ -9,3 +9,9 @@ own observations.
 As the project matures, we'll come up with standardized schemas to describe the audits and how
 publicly verifiable they are, etc. Then we'll document each election, and each contest in each election,
 in a database to make analysis easier.
+
+## Audit reports
+Until we develop yet more convenient approaches to organizing and sharing audit reports,
+you can either browse thru the various folders in this repository, clone this repository via
+the wonderful git tool which makes it easy to sync with the latest version or make your
+own contributions, or download a zip snapshot of the whole repository.
