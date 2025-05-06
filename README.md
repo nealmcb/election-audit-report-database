@@ -12,6 +12,9 @@ in a database to make analysis easier.
 
 ## Audit reports
 Until we develop yet more convenient approaches to organizing and sharing audit reports,
-you can either browse thru the various folders in this repository, clone this repository via
+you can
+* Browse thru the various folders in this repository
+* Use the Code button to clone this repository via
 the wonderful git tool which makes it easy to sync with the latest version or make your
-own contributions, or download a zip snapshot of the whole repository.
+own contributions, or
+* Download a zip snapshot of the whole repository, also via the Code button.
